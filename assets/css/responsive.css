@@ -1,0 +1,59 @@
+@media(max-width:576px){
+    /* Nav Bar Part Start */
+.head-2 h6 {
+    font-size: 35px !important;
+  }
+.head-part p {
+    font-size: 35px !important;
+  }
+.head-part h5 {
+    font-size: 35px !important;
+  }
+    /* Nav Bar Part End */
+    /* Test Part Start */
+.test-img.img2 img{
+    margin-left: 75px !important;
+}
+    /* Test Part End */
+    /* Footer Part Start */
+ul {
+    padding-left: 1rem !important;
+  }
+    /* Footer Part End */
+}
+@media(max-width:768px){
+    /* Navbar Part Start */
+.nav-bg-img img{
+    display: none !important;
+}
+    /* Navbar Part End */
+}
+@media(max-width:992px){
+    /* test Part Start */
+.test-content p {
+    padding-right: 0px !important;
+    }
+    /* test Part End */
+}
+@media(max-width:1200px){
+    /* Service part Start */
+.service-con-mai{
+    padding-top: 20px;
+}
+    /* Service part End */
+    /* Cours Part Start */
+.card-con-footer{
+    display: block !important;
+}
+.card-con-2 {
+    padding-left: 0px !important;
+  }
+    /* Cours Part End */
+    /* Test Part Start */
+.test-img img {
+    width: 100px;
+    margin-left: 130px !important;
+    padding-top: 20px !important;
+    }
+    /* Test Part End */
+}
